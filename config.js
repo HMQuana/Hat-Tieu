@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Tại vì em là Hạt Tiêu Cute <33333333',
     mess: 'anh biết mà 🥰😘😘',
     messDesc: 'hnay sinh nhật cho làm công chúa 1 hôm nhé... sinh nhật vui vẻ, ko nói nhiều, phải hạnh phúc... Hẹn 1 ngày không xa đi bay nhảy Thủ Đô <3',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <33',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
