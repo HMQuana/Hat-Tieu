@@ -1,13 +1,13 @@
 const CONFIG = {
     introTitle: 'Hê lổ Hê lô!',
-    introDesc: `Ngày hôm nay ta cùng hợp hoan nơi đây
-    Mọi người bên nhau ta hát mừng sinh nhật
-    1 2 3
-    Ta cùng thổi tắt nến ',
+    introDesc: ` Ngày hôm nay ta cùng hợp hoan nơi đây
+     Mọi người bên nhau ta hát mừng sinh nhật
+     1 2 3
+     Ta cùng thổi tắt nến ',
     btnIntro: 'hihi',
     title: 'Happy Birthday 😙',
     desc: 'Happy Birthday to you 😗😗 ',
-    btnYes: 'Vẫn cứ là xịn chồng của em <33',
+    btnYes: ' Vẫn cứ là xịn chồng của em <33',
     btnNo: 'Mỗi thế thôi à -.-!',
     question:'Trên thế giới hơn 7 tỉ người mà sao có mỗi em là thiên thần thôi nhỉ <3',
     btnReply: 'Gửi cho anh <3',
