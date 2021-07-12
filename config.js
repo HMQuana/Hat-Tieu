@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Hê lổ Hê lô!',
     introDesc: `ngày hôm nay ta cùng hợp hoan nơi đây
     mọi người bên nhau ta hát mừng sinh nhật
-    1 2 3
+    một hai ba
     ta cùng thổi tắt nến ',
     btnIntro: 'hihi',
     title: 'happy birthday 😙',
