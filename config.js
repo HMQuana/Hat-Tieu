@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `ngày hôm nay ta cùng hợp hoan nơi đây
     mọi người bên nhau ta hát mừng sinh nhật
     một hai ba
-    ta cùng thổi tắt nến ',
+    ta cùng thổi tắt nến `,
     btnIntro: 'hihi',
     title: 'happy birthday 😙',
     desc: 'happy birthday to you 😗😗 ',
